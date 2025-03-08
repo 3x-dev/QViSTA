@@ -1,9 +1,10 @@
 # QViSTA: A Novel Quantum Vision Transformer for Multi-Stage Early Alzheimer’s Diagnosis using Optimized Variational Quantum Circuits
+Abstract:
 Magnetic resonance imaging (MRI) is widely used by neurologists to detect brain abnormalities such as strokes, tumors, and various forms of dementia, including Alzheimer's disease. However, accurately diagnosing the different stages of Alzheimer's disease remains a challenge, with nearly one in five patients misdiagnosed due to symptom overlap with other conditions. This paper introduces QViSTA, a novel hybrid quantum vision transformer (QViT) model that exploits quantum parallelism to improve early diagnosis and differentiation of Alzheimer's disease stages. By integrating quantum variational circuits (VQCs) with vision transformers (ViTs), QViSTA addresses the data scalability and computational efficiency limitations of classical machine learning models. Using a balanced, multi-class dataset of 40,000 MRI images, QViSTA achieved a validation area under the receiver operating characteristic (AUC) of 87.86\% and a test AUC of 86.67\%, closely matching the performance of a benchmarked classical ViT while reducing feature space by 3.18\%. Early and accurate detection of Alzheimer's disease is critical, as it allows for timely interventions that can significantly improve the quality of life for patients and their caregivers. As more hospitals adopt AI for biomedical imaging, QViSTA's innovative approach could dramatically reduce misdiagnosis rates, improve patient outcomes, and reduce costs.
+
+A link to our paper can be found at the following: https://openreview.net/pdf?id=D9wNOMsMN6
 
 A link to the curated dataset can be found at the following Kaggle link:
 https://www.kaggle.com/datasets/aryansinghal10/alzheimers-multiclass-dataset-equal-and-augmented
 
 A link to our research poster can be found at the following Google Drive link: https://docs.google.com/presentation/d/1AryC1JMgUuqIdjBpS1Vf_-DPL8avO8H8KZcd3tqkiq0/edit?usp=sharing
-
-(Paper preprint link coming soon!)
